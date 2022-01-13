@@ -1,0 +1,8 @@
+{
+  "name": "ngprebuildDemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "61a655de"
+}
